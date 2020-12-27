@@ -1,0 +1,23 @@
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\bin\Debug\Hastane Yönetim Ve Randevu Sistemi.exe.config
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\bin\Debug\Hastane Yönetim Ve Randevu Sistemi.exe
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\bin\Debug\Hastane Yönetim Ve Randevu Sistemi.pdb
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane Yönetim Ve Randevu Sistemi.csprojAssemblyReference.cache
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.Properties.Resources.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane Yönetim Ve Randevu Sistemi.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane Yönetim Ve Randevu Sistemi.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane Yönetim Ve Randevu Sistemi.exe
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane Yönetim Ve Randevu Sistemi.pdb
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmBrans.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmDoktorPaneli.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmDuyurular.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmHastaBilgiDüzenle.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmDoktorBilgiDüzenle.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmDoktorDetay.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmDoktorGiris.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmGirisler.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmHastaGiris.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmHastaDetay.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmHastaKayit.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmRandevuListesi.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmSekreterDetay.resources
+O:\Udemy\Udemy C# Projeleri\Hastane Yönetim Ve Randevu Sistemi\Hastane Yönetim Ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_Ve_Randevu_Sistemi.FrmSekreterGiris.resources
